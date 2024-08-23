@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb-dev-hello"
+  site-url: "https://koaning.github.io/nb-dev-hello"
+  description: "Just giving this thing a spin over here."
+  repo-branch: main
+  repo-url: "https://github.com/koaning/nb-dev-hello"
